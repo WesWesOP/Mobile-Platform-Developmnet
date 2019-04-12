@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Name                 Ivo Ivanov
+    Student ID           S1504801 -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/search1"
+        android:title="Most Northerly" />
+
+    <item
+        android:id="@+id/search2"
+        android:title="Most Southerly" />
+
+    <item
+        android:id="@+id/search3"
+        android:title="Most Westerly" />
+
+    <item
+        android:id="@+id/search4"
+        android:title="Most Easterly" />
+
+    <item
+        android:id="@+id/search5"
+        android:title="Sort by Magnitude" />
+    <item
+        android:id="@+id/search6"
+        android:title="Sort by Deepest" />
+    <item
+        android:id="@+id/search7"
+        android:title="Sort by Shallowest" />
+    <item
+        android:id="@+id/search8"
+        android:title="Sort by Location" />
+
+</menu>
